@@ -1,13 +1,16 @@
 body {
-  padding: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #000;
 }
+h1{
+  color:#fff;
+  text-align:center;
+}
 .doot {
+  padding: 100px;
   display: flex;
   position: relative;
+  justify-content: center;
+  align-items: center;
 }
 
 .key {
